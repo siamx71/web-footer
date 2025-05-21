@@ -1,0 +1,74 @@
+
+.bgBox {
+    background-image: url(gradient\ pic.jpg);
+    background-position: center;
+    padding: 100px;
+  
+}
+.subscribe {
+display: flex;
+align-items: center;
+padding-bottom: 30px;
+font-size: 4rem;
+padding-left: 30%;
+}
+.input {
+display: flex;
+padding-left: 35%;
+padding-top: 4%;
+}
+.background{
+    display: flex;
+    padding: 20px;
+    padding-left: 40px;
+    background-image: url(bg\ black.jpg);
+}
+.lorem{
+    padding: 110px;
+    color: white;
+}
+.adress{
+   padding: 110px; 
+    color: white;
+}
+.quickLines{
+    padding: 110px; 
+     color: white;
+}
+.icons{
+     padding: 120px; 
+      color: white;
+      padding-left: -20px;
+}
+.box{
+  padding: 10px;
+  width: 450px;
+    
+}
+.button{
+    height: 39px;
+    width: 70px;
+}
+:hover .button{
+    cursor: pointer;
+}
+
+
+.logo{
+display: flex;
+padding: 10px;
+
+}
+.logo1{
+    padding: 10px;
+    
+}
+.logo2{
+    padding: 10px;
+}
+.logo3{
+    padding: 10px;
+}
+.logo4{
+    padding: 10px;
+}
